@@ -10,10 +10,6 @@ public enum ClusterShardStrategy {
 
     REGION_SUFFIX,
 
-    PROXY,
-
-    ONESTORE_PROXY,
-
     HEX_PREFIX_MOD;
 
     @Override
